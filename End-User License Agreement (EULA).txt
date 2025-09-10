@@ -1,0 +1,42 @@
+End-User License Agreement (EULA)
+This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Nexarion ("Licensor") for the software product identified above, which may include associated software components, media, printed materials, and "online" or electronic documentation ("program").
+
+By installing, copying, or otherwise using the program, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the program.
+
+The program is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The program is licensed, not sold.
+
+1. GRANT OF LICENSE.
+The Licensor grants you the following rights provided that you comply with all terms and conditions of this EULA:
+
+    a. Installation and Use. The Licensor grants you a personal, limited, non-exclusive, non-transferable, revocable license to install and use one copy of the program on a single computer, device, or other hardware system for your personal, non-commercial purposes.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+    a. Maintenance of Copyright Notices. You must not remove or alter any copyright notices on any and all copies of the program.
+
+    b. Distribution. You may not distribute copies of the program to third parties.
+
+    c. Prohibition on Reverse Engineering, Decompilation, and Disassembly. You may not reverse engineer, decompile, or disassemble the program, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+
+    d. Rental. You may not rent, lease, or lend the program.
+
+    e. Support Services. The Licensor may provide you with support services related to the program ("Support Services"). Any supplemental software code provided to you as part of the Support Services shall be considered part of the program and subject to the terms and conditions of this EULA.
+
+    f. Compliance with Applicable Laws. You must comply with all applicable laws regarding use of the program.
+
+3. INTELLECTUAL PROPERTY.
+All title, including but not limited to copyrights, in and to the program and any copies thereof are owned by the Licensor or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the program is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content. All rights not expressly granted are reserved by the Licensor.
+
+4. TERMINATION.
+Without prejudice to any other rights, the Licensor may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the program in your possession.
+
+5. DISCLAIMER OF WARRANTY.
+THE program IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE LICENSOR AND ITS SUPPLIERS DISCLAIM ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY.
+IN NO EVENT SHALL THE LICENSOR OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE program, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN ANY CASE, THE LICENSOR'S ENTIRE LIABILITY UNDER ANY PROVISION OF THIS EULA SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU FOR THE SOFTWARE, IF ANY.
+
+7. GOVERNING LAW.
+This EULA is governed by the laws of my country. Any legal action or proceeding relating to this EULA shall be brought exclusively in the courts located in my country.
+
+8. ENTIRE AGREEMENT.
+This EULA constitutes the entire agreement between you and the Licensor relating to the program and supersedes all prior or contemporaneous oral or written communications, proposals and representations with respect to the program or any other subject matter covered by this EULA.
